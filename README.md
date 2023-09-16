@@ -1,4 +1,4 @@
-# My-Django-Blog
+# My Blog using django
 ![home](https://github.com/RandaErfan/My-Django-Blog/assets/95579348/767c96a5-9dfb-4e88-89c2-401e7c21a2d0)
 
 # Home :
